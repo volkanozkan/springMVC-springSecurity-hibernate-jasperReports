@@ -1,0 +1,28 @@
+#register-panel {
+    width: 540px;
+    margin: 100px auto;
+    background: #dfdfdc;
+    border: 3px double #000;
+}
+
+.null-username, .null-email, .null-password, .null-repassword {
+	color: red;
+	font-size:large;
+	position: inherit;
+	text-align: center;
+}
+
+#userList-panel {
+    width: 550px;
+    padding: 20px;
+    margin: 100px auto;
+    background: #fff;
+}
+
+#login-panel {
+    width: 250px;
+    margin: 100px auto;
+    background: #dfdfdc;
+    border: 3px double #000;
+}
+
