@@ -1,4 +1,4 @@
-# SpringMVC-SpringSecurity-JasperReports
+# SpringMVC-SpringSecurity-Hibernate-JasperReports
 
 Small web application using Spring MVC, Spring Security, Hibernate and Jasper Reports.
 
